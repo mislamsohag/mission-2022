@@ -1,0 +1,33 @@
+
+
+body {
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    /* font-size: 20px; */
+}
+h1 {
+    font-size: 40px;    
+    margin: 0;
+}
+.headig-section {
+
+}
+.mission-color {
+    color: #FFAD5A;
+}
+.left-border {
+    border-left: 2px solid #FF5959;
+    padding: 0 10px;
+}
+.click-button a {
+    background-color: #FF5959;
+    padding: 15px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+}
+.click-button {
+    margin-top: 30px;
+}
