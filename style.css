@@ -99,7 +99,21 @@ h1 {
    padding: 50px 0 100px 30px;
 }
 /* develop css part End */
-
+/* COVID-19 Reg. Form Start */
+.covid-part {
+    margin: 30px 5%;
+}
+.covid-content {
+    display: flex;
+}
+.covid-content-width {
+    width: 50%;
+}
+.box-size {
+    width: 90%;
+    padding: 5px 5px;
+}
+/* COVID-19 Reg. Form end */
 /* footer part start */
 .footer-part {
     background: #0B0D17;
@@ -116,5 +130,4 @@ h1 {
     color: #FF5959;
     font-style: italic;
 }
-
-/* footer part start */
+/* footer part end */
