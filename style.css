@@ -4,25 +4,36 @@ body {
     font-family: 'Playfair Display', serif;
     font-family: 'Poppins', sans-serif;
     font-family: 'Source Sans Pro', sans-serif;
-    /* font-size: 20px; */
+    margin: 0;
+    padding: 0;
 }
 h1 {
     font-size: 40px;    
     margin: 0;
 }
-.headig-section {
-
+.heroPart {
+    margin: 20px 5%;
+}
+.heroPartContant {
+    display: flex;   
+    justify-content: space-between;
+}
+.heroPartContant img {
+    width: 40%;    
+}
+.hero-img {
+    text-align: center;
 }
 .mission-color {
     color: #FFAD5A;
 }
 .left-border {
     border-left: 2px solid #FF5959;
-    padding: 0 10px;
+    padding: 0 5px;
 }
 .click-button a {
     background-color: #FF5959;
-    padding: 15px 25px;
+    padding: 5px 20px;
     border-radius: 5px;
     text-decoration: none;
     color: #fff;
@@ -30,4 +41,7 @@ h1 {
 }
 .click-button {
     margin-top: 30px;
+}
+.content-width {
+    width: 50%;
 }
