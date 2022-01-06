@@ -45,3 +45,35 @@ h1 {
 .content-width {
     width: 50%;
 }
+/* my section css part start */
+.mission-content {
+    display: flex;   
+}
+.mission-section {
+    margin: 20px 5%;
+}
+.mission-section h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.myMission {
+    margin: 10px 20px;
+    padding: 0 20px;    
+}
+.mission {
+    background-color:#EDF5F6 ;
+    border-radius: 20px;
+}
+.vission {
+    background-color:#FFEEEE ;
+    border-radius: 20px;
+}
+.goal {
+    background-color:#FFF4D6 ;
+    border-radius: 20px;
+}
+.myMission img {
+    width: 200px;
+    height: 200px;
+}
+/* my section css part end */
