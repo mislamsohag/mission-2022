@@ -49,10 +49,10 @@ h1 {
 .mission-content {
     display: flex;   
 }
-.mission-section {
+.mission-part {
     margin: 20px 5%;
 }
-.mission-section h1 {
+.mission-part h1 {
     text-align: center;
     margin-bottom: 40px;
 }
@@ -77,3 +77,25 @@ h1 {
     height: 200px;
 }
 /* my section css part end */
+
+/* develop css part Start */
+.develop-part {
+    margin: 0 5%;
+    padding: 20px 0;        
+}
+.develop-content {
+    display: flex;
+}
+.dev-img {
+    width: 40%;
+}
+.dev-img img {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+}
+.dev-content {    
+    width: 60%;
+   padding: 50px 0 100px 30px;
+}
+/* develop css part End */
